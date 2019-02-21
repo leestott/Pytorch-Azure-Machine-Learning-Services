@@ -5,6 +5,7 @@
  All student get $100 of Azure credit via Azure for Student for more details and get registered see [Azure Dev Tools for teaching] (https://azureforeducation.microsoft.com/en-US/Institutions)
 
 ## Data Resources
+
 The model is trained to classify dog breeds using the [Stanford Dog dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) and it is based on a pretrained ResNet18 model. This ResNet18 model has been built using images and annotation from ImageNet. The Stanford Dog dataset contains 120 classes (i.e. dog breeds), however, for most of the tutorial, we will only use a subset of this dataset which includes only 10 dog breeds.
 
 You can view the subset of the data used [here](https://github.com/heatherbshapiro/pycon-canada/tree/master/breeds-10).
@@ -20,5 +21,6 @@ In this tutorial, you will learn how to train a Pytorch image classification mod
 
 If your new to Pytorch and Azure there is an excellent course at [Microsoft learn](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/) which provides a sandbox azure environment.
 
-## Pytorch tutorials 
+## Pytorch tutorials
+
 [Getting Started with Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
