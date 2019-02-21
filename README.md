@@ -18,4 +18,7 @@ In this tutorial, you will learn how to train a Pytorch image classification mod
 
 ## Not sure where to start
 
-If your new to Pytorch and Azure there is an excellent course at [Microsoft learn] (https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/) which provides a sandbox azure environment.
+If your new to Pytorch and Azure there is an excellent course at [Microsoft learn](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/) which provides a sandbox azure environment.
+
+## Pytorch tutorials 
+[Getting Started with Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
