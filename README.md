@@ -15,7 +15,9 @@ Microsoft Research Open Data Beta - Is a collection of free datasets from Micros
 
 ## Getting Started with Pytorch
 
-In this tutorial, you will learn how to train a Pytorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's [PyTorch estimator](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch) enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute. 
+In this tutorial, you will learn how to train a Pytorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's [PyTorch estimator](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch) enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute.
+
+
 
 ## Not sure where to start
 
