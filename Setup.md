@@ -55,4 +55,13 @@ jupyter notebook
 
 ## Getting Started
 
-Open the [StatHere.ipynb](StartHere.ipynb) Notebooks within Jupyter.
+- [Exercise 1 Introduction](Exercise1.ipynb)
+- [Exercise 2 Creating AMLS + Compute](Exercise2.ipynb)
+- [Exercise 3 Uploading Data](Exercise3.ipynb)
+- [Exercise 4 Prepare Traing](Exercise4.ipynb)
+- [Exercise 5 Tensorboard](Exercise5.ipynb)
+- [Exercise 6 Distributed Training](Exercise6.ipynb)
+- [Exercise 7 Hyperparameter Tuning](Exercise7.ipynb)
+- [Exercise 8 Inferencing](Exercise8.ipynb)
+- [Exercise 9 Deploying Model as Web Service](Exercise9.ipynb)
+- [Exercise 10 Test Web Service](Exercise10.ipynb)
