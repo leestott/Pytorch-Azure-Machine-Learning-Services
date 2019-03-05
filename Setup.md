@@ -65,3 +65,4 @@ jupyter notebook
 - [Exercise 8 Inferencing](Exercise8.ipynb)
 - [Exercise 9 Deploying Model as Web Service](Exercise9.ipynb)
 - [Exercise 10 Test Web Service](Exercise10.ipynb)
+- [Exercise 11 Web Service Example](Exercise11.ipynb)
