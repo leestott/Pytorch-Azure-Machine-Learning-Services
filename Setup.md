@@ -42,4 +42,4 @@ jupyter notebook
 
 ## Getting Started
 
-Open the [StatHere](StartHere.ipynb) Notebooks within Jupyter.
+Open the [StatHere.ipynb](StartHere.ipynb) Notebooks within Jupyter.
