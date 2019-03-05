@@ -53,4 +53,4 @@ To facilitate training, the Azure Machine Learning Python SDK provides a high-le
 
 ## Getting Stated
 
-To get started on this project start with dog-breed-classifier.ipynb
+To get started on this project start with [Setup.md](setup.md)
