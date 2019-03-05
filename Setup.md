@@ -26,8 +26,21 @@ On Windows
 conda install pytorch -c pytorch
 pip install torchvision
 ```
+On Linux
+
+```
+conda install pytorch-cpu torchvision-cpu -c pytorch
+```
 
 You will need to restart jupyter after this Detailed instructions are [here](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-create-workspace-with-python)
+
+## Install Tensorboard
+
+```
+pip install tensorboard
+pip install tensorboardX
+
+```
 
 ## Install VS Code and the VS Code extension
 
