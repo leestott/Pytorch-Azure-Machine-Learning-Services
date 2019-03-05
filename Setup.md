@@ -156,7 +156,7 @@ jupyter notebook
 - Open your notebook url (http://localhost:8888/?token=...) using web browser in your desktop.
 ![Notebook Login](/assets/images/Notebooks.png)
 
-Simply paste into the password or token box the token recieved and press login this will load the Jupyter Hub
+Simply paste into the password or token box the token received and press login this will load the Jupyter Hub
 
 - Create new notebook by selecting "Python 3.6" kernel (which is your current conda environment).
 
@@ -167,7 +167,7 @@ Now you're ready to start !
 - [Exercise 1 Introduction](Exercise1.ipynb)
 - [Exercise 2 Creating AMLS + Compute](Exercise2.ipynb)
 - [Exercise 3 Uploading Data](Exercise3.ipynb)
-- [Exercise 4 Prepare Traing](Exercise4.ipynb)
+- [Exercise 4 Prepare Training](Exercise4.ipynb)
 - [Exercise 5 Tensorboard](Exercise5.ipynb)
 - [Exercise 6 Distributed Training](Exercise6.ipynb)
 - [Exercise 7 Hyperparameter Tuning](Exercise7.ipynb)
