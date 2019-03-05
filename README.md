@@ -9,7 +9,8 @@
 The model is trained to classify dog breeds using the [Stanford Dog dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) and it is based on a pretrained ResNet18 model. This ResNet18 model has been built using images and annotation from ImageNet. The Stanford Dog dataset contains 120 classes (i.e. dog breeds), however, for most of the tutorial, we will only use a subset of this dataset which includes only 10 dog breeds.
 
 You can view the subset of the data used [here](https://github.com/heatherbshapiro/pycon-canada/tree/master/breeds-10).
-Please refer to the [StartHere.ipynb](StartHere.ipynb)
+
+Please refer to the [Setup Instructions](Setup.md)
 
 ## DataSets
 
@@ -17,7 +18,7 @@ Microsoft Research Open Data Beta - Is a collection of free datasets from Micros
 
 ## Getting Started with PyTorch
 
-In this tutorial, you will learn how to train a Pytorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's [PyTorch estimator](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch) enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute.
+In this tutorial, you will learn how to train a PyTorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's [PyTorch estimator](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-Pytorch) enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute.
 
 ## Not sure where to start
 
@@ -25,9 +26,9 @@ If your new to PyTorch and Azure there is an excellent course at [Microsoft lear
 
 ## PyTorch tutorials
 
-[Getting Started with Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+[Getting Started with PyTorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 
-In this tutorial, you will learn how to train a Pytorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's PyTorch estimator enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute. The model is trained to classify dog breeds using the Stanford Dog dataset and it is based on a pretrained ResNet18 model. This ResNet18 model has been built using images and annotation from ImageNet. The Stanford Dog dataset contains 120 classes (i.e. dog breeds), to save time however, for most of the tutorial, we will only use a subset of this dataset which includes only 10 dog breeds.
+In this tutorial, you will learn how to train a PyTorch image classification model using transfer learning with the Azure Machine Learning service. The Azure Machine Learning python SDK's PyTorch estimator enables you to easily submit PyTorch training jobs for both single-node and distributed runs on Azure compute. The model is trained to classify dog breeds using the Stanford Dog dataset and it is based on a pre-trained ResNet18 model. This ResNet18 model has been built using images and annotation from ImageNet. The Stanford Dog dataset contains 120 classes (i.e. dog breeds), to save time however, for most of the tutorial, we will only use a subset of this dataset which includes only 10 dog breeds.
 
 ## What is Azure Machine Learning service?
 
@@ -41,7 +42,7 @@ Training machine learning models, particularly deep neural networks, is often a 
 
 To facilitate training, the Azure Machine Learning Python SDK provides a high-level abstraction, the estimator class, which allows users to easily train their models in the Azure ecosystem. You can create and use an Estimator object to submit any training code you want to run on remote compute, whether it's a single-node run or distributed training across a GPU cluster. For PyTorch and TensorFlow jobs, Azure Machine Learning also provides respective PyTorch and TensorFlow estimators to simplify using these frameworks.
 
-## Steps to train with a Pytorch Estimator:
+## Steps to train with a PyTorch Estimator:
 
 ![AzureMachineLearingProcess](/assets/images/aml-run.png)
 
