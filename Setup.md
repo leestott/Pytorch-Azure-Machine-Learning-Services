@@ -39,6 +39,7 @@ Download and install Visual Studio Code then the Azure Machine Learning Extensio
 git clone https://github.com/leestott/Pytorch-Azure-Machine-Learning-Services
 jupyter notebook
 ```
+
 ## Getting Started
 
-Open the StatHere Notebooks within Jupyter.
+Open the [StatHere](StartHere.ipynb) Notebooks within Jupyter.
